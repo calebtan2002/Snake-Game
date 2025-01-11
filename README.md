@@ -17,7 +17,7 @@ A simple and fun Snake Game built using JavaScript, HTML, and CSS. This project 
 
 ## Demo
 
-Check out the game in action: [Game Link](https:/calebtan2002.github.io/Snake-Game)
+Check out the game in action: [Game Link](https://calebtan2002.github.io/Snake-Game)
 
 ## Features
 
