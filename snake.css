@@ -1,0 +1,40 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: #121212; /* Dark background for contrast */
+    color: #ffffff; /* White text for readability */
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Center the content vertically */
+    overflow: hidden; /* Prevent scrolling */
+}
+
+h1 {
+    font-size: 3rem; /* Large and bold title */
+    color: #32cd32; /* Lime green to match the snake */
+    margin-bottom: 20px;
+    text-shadow: 0 0 10px #32cd32, 0 0 20px #32cd32; /* Glow effect */
+}
+
+p {
+    font-size: 1.2rem;
+    color: #cccccc;
+    margin-top: 10px;
+}
+
+#board {
+    border: 5px solid #32cd32; /* Green border for the game canvas */
+    background-color: #000000; /* Black canvas background */
+    box-shadow: 0 0 20px #32cd32, 0 0 40px #32cd32; /* Glow effect around the canvas */
+}
+
+footer {
+    margin-top: 20px;
+    font-size: 0.9rem;
+    color: #888888;
+    font-style: italic;
+}
